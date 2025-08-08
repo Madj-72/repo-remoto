@@ -1,2 +1,2 @@
 # repo-remoto
-repositório
+repositório remoto depois do clone
